@@ -1,2 +1,2 @@
-# Tutorial-Test
-Test for SDSC2001
+# Upload of d2l codes
+Textbook URL: https://d2l.ai/
